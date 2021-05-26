@@ -1,0 +1,54 @@
+.background {
+  background-color: #f0f0f0;
+}
+
+.formContainer {
+    border: 1px solid black;
+    padding: 40px;
+    width: 75%;
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+}
+
+.mainContainer {
+    padding-left: 35px;
+    padding-top: 35px;
+}
+
+.header {
+    padding-bottom: 30px;
+}
+
+.forgot-password {
+  padding-top: 20px;
+}
+
+.login-link {
+  padding-top: 20px;
+}
+
+.error {
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+
+.error-container {
+  padding-bottom: 20px;
+}
+
+.pending {
+  border: 1px solid black;
+  margin-top: 10px;
+  width: 50%;
+  transform: translateX(-50%);
+  left: 50%;
+  position: absolute;
+  text-align: center;
+}
+
